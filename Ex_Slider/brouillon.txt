@@ -1,0 +1,4 @@
+-créer 2 composants: 
+    -le premier gère la vue (où on voit l'image mise en avant)
+        -la vue se découpe en "affichage d'une image" + "flèches de contrôle"
+    -le deuxième gère la liste en dessous de l'image mise en avat
